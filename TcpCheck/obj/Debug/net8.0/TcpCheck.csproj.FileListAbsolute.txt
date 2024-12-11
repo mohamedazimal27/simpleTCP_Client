@@ -1,0 +1,14 @@
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\bin\Debug\net8.0\TcpCheck.exe
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\bin\Debug\net8.0\TcpCheck.deps.json
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\bin\Debug\net8.0\TcpCheck.runtimeconfig.json
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\bin\Debug\net8.0\TcpCheck.dll
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\bin\Debug\net8.0\TcpCheck.pdb
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.AssemblyInfoInputs.cache
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.AssemblyInfo.cs
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.csproj.CoreCompileInputs.cache
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.dll
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\refint\TcpCheck.dll
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.pdb
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\TcpCheck.genruntimeconfig.cache
+D:\Projects\99-test\TwiCAT\TcpCheck\TcpCheck\obj\Debug\net8.0\ref\TcpCheck.dll
