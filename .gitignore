@@ -1,0 +1,47 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET
+bin/
+obj/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+.vs2019/
+.vs2017/
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+.vscode/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
